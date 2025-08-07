@@ -2,6 +2,7 @@
   "compilerOptions": {
     "outDir": "./src/",
     "module": "commonjs",
+    "types": ["node"],
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "target": "ES2020",

@@ -46,7 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/glob", "npm:8.1.0"],\
             ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash", "npm:4.17.5"],\
-            ["@types/node", "npm:20.14.2"],\
+            ["@types/node", "npm:24.2.0"],\
             ["@types/nunjucks", "npm:3.2.6"],\
             ["@types/require-directory", "npm:2.1.6"],\
             ["@types/serve-favicon", "npm:2.5.7"],\
@@ -5893,6 +5893,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@types/node", "npm:20.14.2"],\
             ["undici-types", "npm:5.26.5"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:24.2.0", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-24.2.0-62c65eafa6-f5abd0c743.zip/node_modules/@types/node/",\
+          "packageDependencies": [\
+            ["@types/node", "npm:24.2.0"],\
+            ["undici-types", "npm:7.10.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -12099,7 +12107,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/glob", "npm:8.1.0"],\
             ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash", "npm:4.17.5"],\
-            ["@types/node", "npm:20.14.2"],\
+            ["@types/node", "npm:24.2.0"],\
             ["@types/nunjucks", "npm:3.2.6"],\
             ["@types/require-directory", "npm:2.1.6"],\
             ["@types/serve-favicon", "npm:2.5.7"],\
@@ -18979,7 +18987,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.11"],\
             ["@tsconfig/node14", "npm:1.0.3"],\
             ["@tsconfig/node16", "npm:1.0.4"],\
-            ["@types/node", "npm:20.14.2"],\
+            ["@types/node", "npm:24.2.0"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
@@ -19274,6 +19282,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/undici-types-npm-5.26.5-de4f7c7bb9-3192ef6f3f.zip/node_modules/undici-types/",\
           "packageDependencies": [\
             ["undici-types", "npm:5.26.5"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:7.10.0", {\
+          "packageLocation": "./.yarn/cache/undici-types-npm-7.10.0-cd8324b9eb-6917fcd8c8.zip/node_modules/undici-types/",\
+          "packageDependencies": [\
+            ["undici-types", "npm:7.10.0"]\
           ],\
           "linkType": "HARD"\
         }]\
